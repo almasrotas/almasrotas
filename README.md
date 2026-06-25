@@ -12,7 +12,7 @@
 <p>Creating clean interfaces and modern web experiences.</p>
 
 <p>
-  <a href="https://discord.com/users/zecca"><img src="https://img.shields.io/badge/| almasrotas-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=592F3A&color=8C6565" />
+  <a href="https://discord.com/users/zecca"><img src="[https://img.shields.io/badge/| almasrotas-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=592F3A&color=8C6565](https://img.shields.io/badge/|%20almasrotas-DDE1E1?style=flat-square&logo=discord&logoColor=DDE1E1&labelColor=7A1F26&color=2A2223)" />
 </p>
 
 </div>
@@ -24,7 +24,7 @@
 const zecca = {
   languages: ["C++", "JavaScript", "HTML", "CSS","Python","Lua","TypeScript"],
   frameworks: ["React", "Node.js", "Vue", "Angular", "Next.js", "Tailwind CSS", "Express"],
-  focus: "Front-End Development",
+  focus: "Full-Stack Development",
   status: "Building cool stuff 🥀"
 };
 ```
