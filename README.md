@@ -12,7 +12,9 @@
 <p>Creating clean interfaces and modern web experiences.</p>
 
 <p>
-  <a href="https://discord.com/users/almasrotas"><img src="[https://img.shields.io/badge/| zecca-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=592F3A&color=8C6565](https://img.shields.io/badge/|%20almasrotas-DDE1E1?style=flat-square&logo=discord&logoColor=DDE1E1&labelColor=7A1F26&color=2A2223)" />
+  <a href="https://discord.com/users/almasrotas">
+    <img src="https://img.shields.io/badge/|%20zecca-DDE1E1?style=flat-square&logo=discord&logoColor=7A1F26&labelColor=2A2223&color=615757" />
+  </a>
 </p>
 
 </div>
