@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:2A2223,50:4B3839,100:615757&text=zecca&fontSize=54&fontColor=DDE1E1&animation=fadeIn&fontAlignY=38"
+  />
+</p>
 
-<!--
-**almasrotas/almasrotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<h3>Full-Stack Developer 🥀</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Creating clean interfaces and modern web experiences.</p>
+
+<p>
+  <a href="https://discord.com/users/cultotrap"><img src="https://img.shields.io/badge/| almasrotas-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=592F3A&color=8C6565" />
+</p>
+
+</div>
+
+
+---
+
+```diff
+const zecca = {
+  languages: ["C++", "JavaScript", "HTML", "CSS","Python","Lua","TypeScript"],
+  frameworks: ["React", "Node.js", "Vue", "Angular", "Next.js", "Tailwind CSS", "Express"],
+  focus: "Front-End Development",
+  status: "Building cool stuff 🥀"
+};
+```
+
+<p align="center">
+    <a href="https://discord.com/users/almasrotas">
+    <img src="https://img.shields.io/badge/|%20almasrotas-DDE1E1?style=flat-square&logo=discord&logoColor=7A1F26&labelColor=2A2223&color=615757" />
+  </a>
+</p>
