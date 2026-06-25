@@ -12,7 +12,7 @@
 <p>Creating clean interfaces and modern web experiences.</p>
 
 <p>
-  <a href="https://discord.com/users/cultotrap"><img src="https://img.shields.io/badge/| almasrotas-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=592F3A&color=8C6565" />
+  <a href="https://discord.com/users/zecca"><img src="https://img.shields.io/badge/| almasrotas-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=592F3A&color=8C6565" />
 </p>
 
 </div>
@@ -30,7 +30,8 @@ const zecca = {
 ```
 
 <p align="center">
-    <a href="https://discord.com/users/almasrotas">
-    <img src="https://img.shields.io/badge/|%20almasrotas-DDE1E1?style=flat-square&logo=discord&logoColor=7A1F26&labelColor=2A2223&color=615757" />
-  </a>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:615757,50:4B3839,100:2A2223&animation=fadeIn"
+  />
 </p>
